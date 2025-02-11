@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: #F4F4F4;
+    text-align: center;
+}
+
+.container .caption {
+    color: #2C3E4F;
+
+}
+.container table, th, td {
+    border: 1px solid #E2E2E2;
+    border-collapse: collapse;
+    
+}
+.container .user{
+    background-color: #017BFE;
+}
+.container .user2{
+    background-color: #FFFFFF;
+}
+.container table{
+    margin-left: 500px;
+    margin-right: 50px;
+}
+.container th, td {
+    padding:15px;
+}

@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container .image{
+    height: 7px;
+}
+
+.container .content .title {
+    margin-left: 300px;
+
+}
+.container .content .paragraph{
+    margin-left: 300px;
+
+}
+.container .content .paragraph1{
+    margin-left: 300px;
+}
+.container .content .title{
+    font-size: 13px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container .content .paragraph .textBlack{
+    color: #41455E;
+}
+.container .content .paragraph .text2{
+    color: #7C7C7C;
+}

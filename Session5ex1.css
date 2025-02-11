@@ -1,0 +1,19 @@
+.container{
+    text-align: center;
+}
+
+.container .heading{
+    background-color: #333333;
+    color: white;
+    font-weight: 500;
+}
+.container .content{
+    text-align: center;
+}
+.container .image{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.container .paragraph{
+    margin-top: -20px;
+}

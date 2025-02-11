@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container .code {
+    background-color: #FFFAEF;
+    border-left-width: 4px;
+    border-left-style: solid;
+    border-left-color:#DFCA4E;
+    padding: 12px;
+    
+}

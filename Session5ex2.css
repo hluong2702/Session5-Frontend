@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.container{
+    background-color: #111111;
+}
+
+.container .heading{
+    color: white;   
+}
+.container .paragraph{
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: #08F6F6;
+    color: #01FF72;
+    font-size: 20px;
+    
+} 
